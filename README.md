@@ -13,6 +13,8 @@ This case study uses the **CrowdFlower Hate Speech Identification dataset**, whi
 
 You can access the dataset here (MIT License):🔗 https://data.world/crowdflower/hate-speech-identification
 
+In the DATA folder also has the original dataset csv and the cleaned dataset csv for access. 
+
 Your job is to analyze linguistic patterns and build baseline + advanced classification models using this dataset. 
 Processed and cleaned versions of the data may also be included in the data/ folder of this repository.
 
