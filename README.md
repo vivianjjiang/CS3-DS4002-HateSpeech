@@ -3,9 +3,6 @@
 This repository contains all materials for the Ds4002 Case Study focused on Hate Speech Identification using real Twitter (now known as X) data. Students will explore linguistic patterns, compare modeling approaches, and evaluate how context affects the detection of harmful speech. 
 This case study is based on the CrowdFlower Hate Speech Identification Dataset, and adapated from Vivian Jiang's original DS4002 Project 1. 
 
-## Respository Strucutre
-
-
 ## Hook and Rubric Documents:
 The hook document outlining the case is included as CS3_Hook_HS.pdf. The Rubric CS3_Rubric_HS.pdf describes the task, submission requirements, formatting, and evaluation fcriteria for this assignment. 
 
