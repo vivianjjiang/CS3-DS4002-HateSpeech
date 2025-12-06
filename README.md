@@ -7,7 +7,7 @@ This case study is based on the CrowdFlower Hate Speech Identification Dataset, 
 
 
 ## Hook and Rubric Documents:
-The hook document outlining the case is included as CS_Hook_HS.pdf. The Rubric CS3_Rubric_HS.pdf describes the task, submission requirements, formatting, and evaluation fcriteria for this assignment. 
+The hook document outlining the case is included as CS3_Hook_HS.pdf. The Rubric CS3_Rubric_HS.pdf describes the task, submission requirements, formatting, and evaluation fcriteria for this assignment. 
 
 **Use both documents continuously while completing the case study to ensure you meet expectations.**
 ## Data
@@ -22,6 +22,7 @@ Processed and cleaned versions of the data may also be included in the data/ fol
 ## Reference Materials:
 
 These materials provide context, modeling ideas, and relevant background to help you complete the case study:
+
 Devlin, J. et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
 
 https://aclanthology.org/N19-1423.pdf
