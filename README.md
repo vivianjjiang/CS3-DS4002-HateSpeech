@@ -22,7 +22,7 @@ In the `SCRIPTS` folder contains reference coding notebooks, read these to under
 > - `REFERENCE_baseline_logistic.ipynb`
 > - `REFERENCE_transformer_demo.ipynb`
 
-Within the `SCRIPTS` folder is the `REFERENCE_IMAGES` contain two example EDA images to also reference if needed.
+Within the `SCRIPTS` folder is the `REFERENCE_IMAGES` which contain two example EDA images to also reference if needed.
 ## Reference Materials:
 
 These materials provide context, modeling ideas, and relevant background to help you complete the case study:
