@@ -20,7 +20,9 @@ In the `DATA` folder also has the original dataset called 'labeled_data.csv' and
 In the `SCRIPTS` folder contains reference coding notebooks, read these to understand patterns and if needed. 
 > - `REFERENCE_preprocessing.ipynb`
 > - `REFERENCE_baseline_logistic.ipynb`
-> - `REFERENCE_transformer_demo.ipynb`  
+> - `REFERENCE_transformer_demo.ipynb`
+
+Within the `SCRIPTS` folder is the `REFERENCE_IMAGES` contain two example EDA images to also reference if needed.
 ## Reference Materials:
 
 These materials provide context, modeling ideas, and relevant background to help you complete the case study:
