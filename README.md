@@ -8,7 +8,7 @@ The hook document outlining the case is included as `CS3_Hook_HS.pdf`.
 The Rubric `CS3_Rubric_HS.pdf` describes the task, submission requirements, formatting, and evaluation criteria for this assignment. 
 
 **Use both documents continuously while completing the case study to ensure you meet expectations.**
-## Data
+## Data & Coding References 
 This case study uses the **CrowdFlower Hate Speech Identification dataset**, which contains ~ 25,000 tweets labeled as hate speech, offensive language, or neither.
 
 You can access the dataset here (MIT License):🔗 https://data.world/crowdflower/hate-speech-identification 
