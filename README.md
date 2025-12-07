@@ -4,21 +4,23 @@ This repository contains all materials for the Ds4002 Case Study focused on Hate
 This case study is based on the CrowdFlower Hate Speech Identification Dataset, and adapated from Vivian Jiang's original DS4002 Project 1. 
 
 ## Hook and Rubric Documents:
-The hook document outlining the case is included as CS3_Hook_HS.pdf. 
-The Rubric CS3_Rubric_HS.pdf describes the task, submission requirements, formatting, and evaluation criteria for this assignment. 
+The hook document outlining the case is included as `CS3_Hook_HS.pdf`. 
+The Rubric `CS3_Rubric_HS.pdf` describes the task, submission requirements, formatting, and evaluation criteria for this assignment. 
 
 **Use both documents continuously while completing the case study to ensure you meet expectations.**
 ## Data
 This case study uses the **CrowdFlower Hate Speech Identification dataset**, which contains ~ 25,000 tweets labeled as hate speech, offensive language, or neither.
 
-You can access the dataset here (MIT License):🔗 https://data.world/crowdflower/hate-speech-identification
-
-In the DATA folder also has the original dataset csv and the cleaned dataset csv for access. 
+You can access the dataset here (MIT License):🔗 https://data.world/crowdflower/hate-speech-identification 
 
 Your job is to analyze linguistic patterns and build baseline + advanced classification models using this dataset. 
-Processed and cleaned versions of the data may also be included in the data/ folder of this repository.
 
+In the `DATA` folder also has the original dataset called 'labeled_data.csv' and the cleaned dataset is called 'labeled_data_clean.csv' for access.
 
+In the `SCRIPTS` folder contains reference coding notebooks, read these to understand patterns and if needed. 
+> - `REFERENCE_preprocessing.ipynb`
+> - `REFERENCE_baseline_logistic.ipynb`
+> - `REFERENCE_transformer_demo.ipynb`  
 ## Reference Materials:
 
 These materials provide context, modeling ideas, and relevant background to help you complete the case study:
